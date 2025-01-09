@@ -91,8 +91,3 @@ catch ME
     rethrow(ME);
 end
 
-!git init
-!git add .
-!git commit -m "Initial commit of MATLAB code"
-!git remote add origin https://github.com/carrymtr/FamousFaces.git
-!git push -u origin master
